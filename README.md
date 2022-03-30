@@ -1,6 +1,6 @@
 ## Sobre:
 
-Projeto de desenvolvimento de um webchat feito durante o curso da trybe.
+Projeto de desenvolvimento para praticar os conceitos de MongoDB, trabalhando com o banco de dados commerce, que contém dados do cardápio do McDonald's. Realizado durante o curso da trybe.
 
 ## tecnologias:
 
